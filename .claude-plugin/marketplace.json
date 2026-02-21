@@ -1,0 +1,31 @@
+{
+  "name": "rogeriochaves",
+  "owner": {
+    "name": "Rogerio Chaves"
+  },
+  "plugins": [
+    {
+      "name": "cc-amphetamine",
+      "description": "Shows a clawd icon in the menu bar while Claude Code is active, pairs with Amphetamine for sleep prevention",
+      "source": {
+        "source": "github",
+        "repo": "rogeriochaves/cc-amphetamine"
+      },
+      "author": {
+        "name": "Rogerio Chaves"
+      },
+      "homepage": "https://github.com/rogeriochaves/cc-amphetamine",
+      "repository": "https://github.com/rogeriochaves/cc-amphetamine",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "sleep",
+        "sleep-prevention",
+        "amphetamine"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
