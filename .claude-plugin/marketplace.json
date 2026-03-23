@@ -9,7 +9,7 @@
       "description": "Shows a clawd icon in the menu bar while Claude Code is active, pairs with Amphetamine for sleep prevention",
       "source": {
         "source": "github",
-        "repo": "rogeriochaves/cc-amphetamine"
+        "repo": "bayan9/cc-amphetamine"
       },
       "author": {
         "name": "Rogerio Chaves"
